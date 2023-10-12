@@ -1,4 +1,6 @@
 ### Hi there 👋
+## My name is Abayomi Eniola and I am a FrontEnd Web Developer
+I just joined the world of Open souurce and I willing to contribute as much as I can 
 
 <!--
 **Enielect/enielect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
