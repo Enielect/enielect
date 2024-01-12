@@ -34,7 +34,7 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time I surf through discord and also watch football.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=twitter&logoColor=white)](https://www.twitter.com/enielect)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-twitter-blue?style=flat&logo=twitter&logoColor=white)](https://www.twitter.com/enielect)
  
 - 👯 I just joined the world of Open souurce and I willing to contribute as much as I can
 
